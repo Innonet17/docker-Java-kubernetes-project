@@ -1,0 +1,2 @@
+Had to use this command to build without errors:
+1.  mvn clean package -DskipTests
